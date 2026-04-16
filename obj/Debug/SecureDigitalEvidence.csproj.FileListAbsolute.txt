@@ -1,0 +1,47 @@
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.pdb
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\MySql.Data.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.pdb
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.Core.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.S3.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\Sha2.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.presentation.dll
+D:\Project_2024\MCA_SJCE\DigitalEvidence\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.csprojResolveAssemblyReference.cache
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.pdb
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.Core.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.S3.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\MySql.Data.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\Sha2.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.presentation.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.dll
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.pdb
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.csprojResolveAssemblyReference.cache
+D:\Project_2025\BE Projects\BE-Mangalore\SecureDigitalEvidence\SecureDigitalEvidence\bin\itextsharp.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.pdb
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.Core.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.S3.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\itextsharp.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\MySql.Data.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\Sha2.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.presentation.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.csprojResolveAssemblyReference.cache
+D:\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.dll
+D:\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.pdb
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\SecureDigitalEvidence.pdb
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.Core.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\AWSSDK.S3.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\itextsharp.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\MySql.Data.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\Sha2.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\bin\zxing.presentation.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.csprojResolveAssemblyReference.cache
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.dll
+D:\OldProject\SecureDigitalEvidence\SecureDigitalEvidence\obj\Debug\SecureDigitalEvidence.pdb
